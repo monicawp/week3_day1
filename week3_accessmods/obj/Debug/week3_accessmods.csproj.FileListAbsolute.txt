@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\bin\Debug\week3_accessmods.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\bin\Debug\week3_accessmods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\bin\Debug\week3_accessmods.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\obj\Debug\week3_accessmods.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\obj\Debug\week3_accessmods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week3_accessmods\week3_accessmods\obj\Debug\week3_accessmods.pdb
